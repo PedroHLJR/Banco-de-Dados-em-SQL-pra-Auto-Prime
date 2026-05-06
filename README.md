@@ -108,6 +108,9 @@ EXEC sp_InsereVeiculo
  ┃ ┣ 📜 SP_InsereVeiculo.sql
  ┃ ┣ 📜 SP_InsereVendedor.sql
  ┃ ┗ 📜 SP_Venda.sql
+ ┣ 📂 exemplos
+ ┃ ┣ 📜 dados_exemplo.sql
+ ┃ ┗ 📜 consultas_uteis.sql
  ┗ 📜 README.md
 ```
 
