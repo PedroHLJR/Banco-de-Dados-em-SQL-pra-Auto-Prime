@@ -130,6 +130,10 @@ Este projeto me permitiu desenvolver conhecimentos em:
 - GitHub: [@PedroHLJR](https://github.com/PedroHLJR)
 - LinkedIn: [phrosa](https://linkedin.com/in/phrosa)
 
+## 📄 Documentação
+
+Para mais detalhes sobre o projeto, consulte a [apresentação completa](docs/Apresentacao_Projeto.pdf).
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
